@@ -1,0 +1,9 @@
+altair
+pandas
+streamlit
+transformers
+torch
+accelerate
+sentencepiece
+safetensors
+bitsandbytes
